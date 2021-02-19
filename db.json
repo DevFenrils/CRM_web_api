@@ -1,0 +1,33 @@
+{
+    "clients": [
+        {
+            "id": 0,
+            "name": "Raul",
+            "phone": "666777888",
+            "street": "C/ Castor num 32",
+            "plan": "premium",
+            "business": "CRMs SA",
+            "notes": "Debe 2 meses"
+        },
+        {
+            "id": 1,
+            "name": "Nestor",
+            "phone": "666777899",
+            "street": "C/ Castor num 32",
+            "plan": "standar",
+            "business": "everis",
+            "notes": "Problemas con CRM , llamar"
+
+        },
+        {
+            "id": 2,
+            "name": "Jorge",
+            "phone": "666777555",
+            "street": "C/ Prudencio Viña num 4",
+            "plan": "standar",
+            "business": "Park And Go",
+            "notes": "No hay notas"
+
+        }
+    ]
+}
